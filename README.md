@@ -36,7 +36,9 @@ fuerte implica causalidad.
 
 grafica obtenida: regresion_lineal_simple.png
     ![Texto alternativo](regresion_lineal_simple.png)
-compilación en pdf:
+
+    
+compilación de resultados en pdf: [Ver PDF](informe_regresion.pdf) 
 
 #### 2: Tabla de Contingencia y Regresión por Especie 
 Objetivo: Analizar la relación entre especie y crecimiento de plantas, y modelar el 
