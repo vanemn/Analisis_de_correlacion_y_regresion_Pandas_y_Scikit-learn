@@ -133,4 +133,7 @@ vs. crecimiento_planta con la línea de regresión.
 discutir si una correlación fuerte implica causalidad. 
 
 grafica obtenida: 
+| ![Gráfica 1](regresion_co2_Especie_A.png) | ![Gráfica 2](regresion_co2_Especie_B.png | ![Gráfica 3](.regresion_co2_Especie_Cpng) |
+|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+| Descripción 1                    | Descripción 2                    | Descripción 3                    |
 compilación en pdf:
