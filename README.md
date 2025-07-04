@@ -58,8 +58,7 @@ como predictor y crecimiento_planta como variable dependiente.
 
 Script de PYTHON : regresion_simple.py [Ver script](tabla_y_regresion_por_especie.py)
 
-grafica obtenida: 
-    ![Texto alternativo](tabla_contingencia_crecimiento.png)
+grafica obtenida:![Texto alternativo](tabla_contingencia_crecimiento.png)
     
 compilación en pdf: [Ver PDF](informe_especies.pdf) 
 
