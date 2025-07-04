@@ -36,7 +36,7 @@ fuerte implica causalidad.
 
 Script de PYTHON : regresion_simple.py [Ver script](regresion_simple.py)
 
-grafica obtenida: regresion_lineal_simple.png
+gráfica obtenida: regresion_lineal_simple.png
     ![Texto alternativo](regresion_lineal_simple.png)
 
     
@@ -58,7 +58,8 @@ como predictor y crecimiento_planta como variable dependiente.
 
 Script de PYTHON : regresion_simple.py [Ver script](tabla_y_regresion_por_especie.py)
 
-grafica obtenida:![Texto alternativo](tabla_contingencia_crecimiento.png)
+Tabla-gráfica obtenida: tabla_contingencia_crecimiento.png
+    ![Texto alternativo](tabla_contingencia_crecimiento.png)
     
 compilación en pdf: [Ver PDF](informe_especies.pdf) 
 
