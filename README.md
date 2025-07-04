@@ -33,7 +33,9 @@ como predictor y crecimiento planta como variable dependiente.
 5. Calcular MSE, MAE y R² para evaluar el modelo. 
 6. Interpretar el coeficiente de Pearson y R², y discutir si una correlación 
 fuerte implica causalidad.
-[Ver script](regresion_simple.py)
+
+Script de PYTHON : regresion_simple.py [Ver script](regresion_simple.py)
+
 grafica obtenida: regresion_lineal_simple.png
     ![Texto alternativo](regresion_lineal_simple.png)
 
