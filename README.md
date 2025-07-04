@@ -34,6 +34,10 @@ como predictor y crecimiento planta como variable dependiente.
 6. Interpretar el coeficiente de Pearson y R², y discutir si una correlación 
 fuerte implica causalidad.
 
+grafica obtenida: regresion_lineal_simple.png
+    ![Texto alternativo](regresion_lineal_simple.png)
+compilación en pdf:
+
 #### 2: Tabla de Contingencia y Regresión por Especie 
 Objetivo: Analizar la relación entre especie y crecimiento de plantas, y modelar el 
 crecimiento con regresión. 
@@ -48,6 +52,9 @@ de crecimiento_planta.
 como predictor y crecimiento_planta como variable dependiente. 
 6. Calcular R² para cada modelo y comparar los resultados.
 
+grafica obtenida: 
+compilación en pdf:
+
 #### 3: Regresión Lineal Múltiple para Crecimiento de Plantas 
 Objetivo: Modelar el crecimiento de plantas usando múltiples variables predictoras. 
 • Tareas: 
@@ -60,6 +67,9 @@ variable dependiente.
 de dispersión y la predicción del modelo. 
 5. Interpretar R² y discutir la linealidad de las relaciones observadas. 
 6. Sugerir una variable de confusión potencial que pueda afectar el modelo. 
+
+grafica obtenida: 
+compilación en pdf:
 
 ####  4: Matriz de Correlación y Regresión Múltiple 
 Objetivo: Analizar correlaciones y modelar con regresión múltiple. 
@@ -80,6 +90,8 @@ crecimiento_planta como variable dependiente.
 6. Discutir la diferencia entre correlación y causalidad para el par de variables 
 con mayor correlación.
 
+grafica obtenida: 
+compilación en pdf:
 
 #### 5: Tabla de Contingencia y Predicción con Regresión 
 Objetivo: Examinar la relación entre especie y pH del suelo, y predecir el 
@@ -93,6 +105,9 @@ categoría de ph_suelo.
 5. Implementar una regresión lineal simple con ph_suelo como predictor y 
 crecimiento_planta como variable dependiente. 
 6. Calcular MSE, MAE y R², e interpretar la linealidad de la relación.
+
+grafica obtenida: 
+compilación en pdf:
 
 #### 6: Regresión por Especie y Evaluación de Predicciones 
 Objetivo: Analizar la correlación y modelar el crecimiento de plantas por especie con 
@@ -109,4 +124,5 @@ vs. crecimiento_planta con la línea de regresión.
 6. Interpretar las diferencias en los coeficientes de correlación y R², y 
 discutir si una correlación fuerte implica causalidad. 
 
-
+grafica obtenida: 
+compilación en pdf:
