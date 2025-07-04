@@ -130,11 +130,13 @@ como predictor y crecimiento_planta como variable dependiente.
 vs. crecimiento_planta con la línea de regresión. 
 5. Calcular MSE, MAE y R² para cada modelo. 
 6. Interpretar las diferencias en los coeficientes de correlación y R², y 
-discutir si una correlación fuerte implica causalidad. 
+discutir si una correlación fuerte implica causalidad.
 
-grafica obtenida: regresion_co2_Especie_A.png,regresion_co2_Especie_B.png y regresion_co2_Especie_C.png
+Script de PYTHON : regresion_por_especie.py [Ver script](regresion_por_especie.py)
+
+grafica obtenida: regresion_co2_Especie_A.png , regresion_co2_Especie_B.png y regresion_co2_Especie_C.png
 | ![Gráfica 1](./regresion_co2_Especie_A.png) | ![Gráfica 2](./regresion_co2_Especie_B.png) | ![Gráfica 3](./regresion_co2_Especie_C.png) |
 |:------------------------------------------:|:------------------------------------------:|:------------------------------------------:|
 | Especie A                                  | Especie B                                  | Especie C                                  |
 
-
+compilación en pdf: [Ver PDF](informe_regresion_por_especie.pdf) 
