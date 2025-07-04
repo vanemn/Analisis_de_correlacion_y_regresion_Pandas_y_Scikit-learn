@@ -56,9 +56,12 @@ de crecimiento_planta.
 como predictor y crecimiento_planta como variable dependiente. 
 6. Calcular R² para cada modelo y comparar los resultados.
 
-grafica obtenida: 
+Script de PYTHON : regresion_simple.py [Ver script](tabla_y_regresion_por_especie.py)
 
-compilación en pdf:
+grafica obtenida: 
+    ![Texto alternativo](tabla_contingencia_crecimiento.png)
+    
+compilación en pdf: [Ver PDF](informe_especies.pdf) 
 
 #### 3: Regresión Lineal Múltiple para Crecimiento de Plantas 
 Objetivo: Modelar el crecimiento de plantas usando múltiples variables predictoras. 
